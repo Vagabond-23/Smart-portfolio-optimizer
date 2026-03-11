@@ -159,7 +159,15 @@ The dashboard includes:
 * Risk metrics
 * Monte Carlo forecast
 
-*(Add screenshots here after running the app)*
+## 📸 Dashboard Preview
+
+<img src="screenshots/efficientfrontier.png" width="700">
+
+<img src="screenshots/portfolioallocation.png" width="700">
+
+<img src="screenshots/portfoliobacktest.png" width="700">
+
+<img src="screenshots/montecarlo.png" width="700">
 
 ---
 
